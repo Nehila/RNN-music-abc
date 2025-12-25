@@ -7,7 +7,7 @@ Apprendre un modèle LSTM à prédire le prochain caractère d’une partition e
 
 ## Contenu
 - `tp-rnn.ipynb` : notebook complet du TP (chargement des données, prétraitement, dataset PyTorch, modèle LSTM, entraînement, génération).
-- Dataset : partitions irlandaises au format ABC (train/validation).
+- `Rapport_Réseaux réccurent`: Rapport du TP
 
 ## Étapes principales
 1. Chargement & exploration des données (`train.json`, `validation.json`)
